@@ -4,6 +4,7 @@ sudo: true
 php:
   - 8.0
   - 8.1
+  - 8.2
 
 service:
   - docker
@@ -16,6 +17,10 @@ matrix:
       env: SYMFONY_VERSION=6.0.*
     - php: 8.1
       env: SYMFONY_VERSION=6.0.*
+    - php: 8.2
+      env: SYMFONY_VERSION=6.0.*
+    - php: 8.2
+      env: SYMFONY_VERSION=5.4.*
 
 cache:
   directories:
