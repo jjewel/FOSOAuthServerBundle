@@ -48,7 +48,7 @@
         "symfony/yaml": "~5.4|~6.0"
     },
     "support": {
-        "issues": "https://github.com/klapaudius/FOSOAuthServerBundle/issues"
+        "issues": "https://github.com/jjewel/FOSOAuthServerBundle/issues"
     },
     "suggest": {
         "doctrine/doctrine-bundle": "*",
@@ -67,7 +67,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "4.0-dev"
+            "dev-master": "5.0-dev"
         }
     }
 }
