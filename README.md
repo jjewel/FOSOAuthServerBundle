@@ -1,7 +1,7 @@
 FOSOAuthServerBundle
 ====================
 
-#### Branches : 4.0 [![Build Status](https://app.travis-ci.com/klapaudius/FOSOAuthServerBundle.svg?branch=4.0)](https://app.travis-ci.com/klapaudius/FOSOAuthServerBundle.svg?branch=4.0) 3.0 [![Build Status](https://app.travis-ci.com/klapaudius/FOSOAuthServerBundle.svg?branch=3.0)](https://app.travis-ci.com/klapaudius/FOSOAuthServerBundle.svg?branch=3.0)
+#### Branches : 4.0 [![Build Status](https://app.travis-ci.com/jjewel/FOSOAuthServerBundle.svg?branch=5.0)](https://app.travis-ci.com/jjewel/FOSOAuthServerBundle.svg?branch=5.0) 
 
 
 ## Documentation
